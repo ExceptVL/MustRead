@@ -1,0 +1,941 @@
+/* Call to: extensions/wikia/StaticChute/?type=css&amp;packages=monaco_css&amp;checksum=cfd3f8a4b232fac05753d275159c1614&22787 */
+
+
+/*39 files in 0.3 seconds, shaved 22970 off 107385, 21.39%*/
+
+/*tabview.css*/
+.yui-navset .yui-nav
+li{margin-right:0.5em}.yui-navset-left .yui-nav li, .yui-navset-right .yui-nav
+li{margin:0
+0 0.5em}.yui-navset-left .yui-nav, .yui-navset-right .yui-nav{width:6em}.yui-navset-left{padding-left:6em}.yui-navset-right{padding-right:6em}.yui-nav, .yui-nav
+li{margin:0;padding:0;list-style:none}.yui-navset li
+em{font-style:normal}.yui-navset{position:relative;zoom:1}.yui-navset .yui-content{zoom:1}.yui-navset .yui-nav
+li{display:inline-block;display:-moz-inline-stack;*display:inline;vertical-align:bottom;cursor:pointer;zoom:1}.yui-navset-left .yui-nav li, .yui-navset-right .yui-nav
+li{display:block}.yui-navset .yui-nav
+a{outline:0}.yui-navset .yui-nav
+a{position:relative}.yui-navset .yui-nav li
+a{display:block;display:inline-block;vertical-align:bottom;zoom:1}.yui-navset-left .yui-nav li a, .yui-navset-right .yui-nav li
+a{display:block}.yui-navset-bottom .yui-nav li
+a{vertical-align:text-top}.yui-navset .yui-nav li a
+em{display:block}.yui-navset-left .yui-nav, .yui-navset-right .yui-nav{position:absolute;z-index:1}.yui-navset-left .yui-nav{left:0}.yui-navset-right .yui-nav{right:0}
+/*shared.css*/
+.mw-plusminus-null{color:#aaa}.texvc{direction:ltr;unicode-bidi:embed}img.tex{vertical-align:middle}span.texhtml{font-family:serif}#wikiPreview.ontop{margin-bottom:1em}#editform,#toolbar,#wpTextbox1{clear:both}div#mw-js-message{margin:1em
+5%;padding:0.5em 2.5%;border:solid 1px #ddd;background-color:#fcfcfc;color:#000}.editsection{float:right;margin-left:5px}table.filehistory{border:1px
+solid #ccc;border-collapse:collapse}table.filehistory th,
+table.filehistory
+td{padding:0
+0.2em 0 0.2em;vertical-align:top;border:1px
+solid #ccc}table.filehistory
+th{text-align:left}table.filehistory td.mw-imagepage-filesize,
+table.filehistory th.mw-imagepage-filesize{white-space:nowrap}table.filehistory td.filehistory-selected{font-weight:bold}li span.deleted,span.history-deleted{text-decoration:line-through;color:#888;font-style:italic}body.ltr td.mw-label{text-align:right}body.ltr td.mw-input{text-align:left}body.ltr td.mw-submit{text-align:left}body.rtl td.mw-label{text-align:left}body.rtl td.mw-input{text-align:right}body.rtl td.mw-submit{text-align:right}td.mw-label{vertical-align:top}td.mw-submit{white-space:nowrap}body.rtl
+.thumbcaption{text-align:right}body.rtl
+.magnify{float:left}body.ltr
+.thumbcaption{text-align:left}body.ltr
+.magnify{float:right}#wpCaptchaWordLabel{vertical-align:bottom;padding-bottom:10px}.mw-hidden-cats-hidden{display:none}.catlinks-allhidden{display:none}p.mw-ipb-conveniencelinks,p.mw-protect-editreasons,p.mw-filedelete-editreasons,p.mw-delete-editreasons{font-size:90%;float:right}div.searchresult{font-size:95%;width:38em}.mw-search-results
+li{padding-bottom:1em;list-style:none}.mw-search-result-data{color:green;font-size:97%}td#mw-search-menu{padding-left:6em;font-size:85%}div#mw-search-interwiki{float:right;width:18em;border-style:solid;border-color:#AAA;border-width:1px;margin-top:2ex}div#mw-search-interwiki
+li{font-size:95%}.mw-search-interwiki-more{float:right;font-size:90%}span.searchalttitle{font-size:95%}div.searchdidyoumean{font-size:127%;margin-bottom:1ex;margin-top:1ex;color:#c00}div.searchdidyoumean
+em{font-weight:bold}.searchmatch{font-weight:bold}div.searchresults{border:1px
+solid darkblue;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px}.mw-userrights-disabled{color:#888}table.mw-userrights-groups * td,table.mw-userrights-groups *
+th{padding-right:1.5em}.os-suggest{overflow:auto;overflow-x:hidden;position:absolute;top:0px;left:0px;width:0px;background-color:white;background-color:Window;border-style:solid;border-color:#AAA;border-width:1px;z-index:99;visibility:hidden;font-size:95%}table.os-suggest-results{font-size:95%;cursor:pointer;border:0;border-collapse:collapse;width:100%}td.os-suggest-result,td.os-suggest-result-hl{white-space:nowrap;background-color:white;background-color:Window;color:black;color:WindowText;padding:2px}td.os-suggest-result-hl,td.os-suggest-result-hl-webkit{background-color:#4C59A6;color:white}td.os-suggest-result-hl{background-color:Highlight;color:HighlightText}.os-suggest-toggle{position:relative;left:1ex;font-size:65%}.os-suggest-toggle-def{position:absolute;top:0px;left:0px;font-size:65%;visibility:hidden}.autocomment{color:gray}#pagehistory .history-user{margin-left:0.4em;margin-right:0.2em}#pagehistory
+span.minor{font-weight:bold}#pagehistory
+li{border:1px
+solid white}#pagehistory
+li.selected{background-color:#f9f9f9;border:1px
+dashed #aaa}table.mw-listgrouprights-table,table.mw-statistics-table,table.mw-tags-table{border:1px
+solid #ccc;border-collapse:collapse}table.mw-listgrouprights-table
+tr{vertical-align:top}table.mw-listgrouprights-table td, table.mw-listgrouprights-table th,
+table.mw-statistics-table td, table.mw-statistics-table th,
+table.mw-tags-table td, table.mw-tags-table
+th{padding:0.5em 0.2em 0.5em 0.2em;border:1px
+solid #ccc}td.mw-statistics-numbers{text-align:right}h4.mw-specialpagesgroup{background-color:#dcdcdc;color:#000;padding:2px;margin: .3em 0em 0em 0em}.mw-specialpagerestricted{font-weight:bold}#shared-image-dup,#shared-image-conflict{font-style:italic}table.mw-emailuser-table{width:98%}td#mw-emailuser-sender,td#mw-emailuser-recipient{font-weight:bold}table#mw-prefixindex-list-table,table#mw-prefixindex-nav-table{width:98%;background-color:transparent}td#mw-prefixindex-nav-form{font-size:smaller;margin-bottom:1em;text-align:right;vertical-align:top}div.mw-warning-with-logexcerpt{padding:3px;margin-bottom:3px;border:2px
+solid #2F6FAB}div.mw-warning-with-logexcerpt ul
+li{font-size:90%}span.mw-revdelundel-link,strong.mw-revdelundel-link{font-family:monospace;font-size:smaller}a.feedlink{background:url("images/feed-icon.png") center left no-repeat;padding-left:16px}
+/*shared.css*/
+.wikia-gallery{list-style:none;margin:16px
+0;padding:0}.wikia-gallery-caption{font-weight:bold;text-align:center}.wikia-gallery-row{white-space:nowrap}.wikia-gallery-item{display:inline-block;padding:5px;vertical-align:top;white-space:normal}.wikia-gallery-item
+.thumb{border-style:solid;border-width:1px;text-align:center}.wikia-gallery-item .thumb
+div{margin:0
+auto}.wikia-gallery-captions-center .wikia-gallery-item{text-align:center}.wikia-gallery-captions-right .wikia-gallery-item{text-align:right}
+/*monobook_modified.css*/
+#wikia_page{font:x-small sans-serif}#article{font-size:127%;line-height:1.5em}.visualClear{clear:both}table{font-size:100%}a{text-decoration:none;color:#002bb8;background:none}a:visited{color:#5a3696}a:active{color:#faa700}a:hover{text-decoration:underline}a.stub{color:#723}a.new{color:#ba0000 !important}a.new:visited{color:#a55858}img{border:none;vertical-align:middle}p{margin: .4em 0 .5em 0;line-height:1.5em}p
+img{margin:0}hr{height:1px;color:#aaa;background-color:#aaa;border:0;margin: .2em 0 .2em 0}h1,h2,h3,h4,h5,h6{background:none;font-weight:normal;margin:0;padding-top: .5em;padding-bottom: .17em;border-bottom:1px solid #aaa;overflow:hidden}h1{font-size:188%}h1
+.editsection{font-size:53%}h2{font-size:150%}h2
+.editsection{font-size:67%}h3,h4,h5,h6{border-bottom:none;font-weight:bold}h3{font-size:132%}h3
+.editsection{font-size:76%;font-weight:normal}h4{font-size:116%}h4
+.editsection{font-size:86%;font-weight:normal}h5{font-size:100%}h5
+.editsection{font-weight:normal}h6{font-size:80%}h6
+.editsection{font-size:125%;font-weight:normal}ul{line-height:1.5em;list-style-type:square;margin: .3em 0 0 1.5em;padding:0;list-style-image:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monobook/bullet.gif)}ol{line-height:1.5em;margin: .3em 0 0 3.2em;padding:0;list-style-image:none}li{margin-bottom: .1em}dt{font-weight:bold;margin-bottom: .1em}dl{margin-top: .2em;margin-bottom: .5em}dd{line-height:1.5em;margin-left:2em;margin-bottom: .1em}fieldset{border:1px
+solid #2f6fab;margin:1em
+0 1em 0;padding:0
+1em 1em;line-height:1.5em}legend{padding: .5em;font-size:95%}form{border:none;margin:0}textarea{width:100%;padding: .1em}input.historysubmit{cursor:pointer;font-size:88%;margin-left:1.6em}select{vertical-align:top}abbr,acronym,.explain{border-bottom:1px dotted black;background:none;cursor:help}q{font-family:Times,"Times New Roman",serif;font-style:italic}code{background-color:#f9f9f9;color:#000}pre{padding:1em;border:1px
+dashed #2f6fab;color:black;background-color:#f9f9f9;line-height:1.1em;overflow:auto;max-height:800px}#siteSub{display:none}#jump-to-nav{display:none}#contentSub,#contentSub2{font-size:84%;line-height:1.2em;margin:0
+0 1.4em 1em;color:#7d7d7d;width:auto}span.subpages{display:block}#bodyContent h1, #bodyContent
+h2{margin-bottom: .6em}#bodyContent h3, #bodyContent h4, #bodyContent
+h5{margin-bottom: .3em}.firstHeading{margin-bottom: .1em;overflow:visible}.usermessage{background-color:#ffce7b;border:1px
+solid #ffa500;color:black;font-weight:bold;margin:2em
+0 1em;padding: .5em 1em;vertical-align:middle}#siteNotice{text-align:center;font-size:95%;padding:0
+.9em}#siteNotice
+p{margin:0;padding:0}.error{color:red;font-size:larger}.errorbox,.successbox{font-size:larger;border:2px
+solid;padding: .5em 1em;float:left;margin-bottom:2em;color:#000}.errorbox{border-color:red;background-color:#fff2f2}.successbox{border-color:green;background-color:#dfd}.errorbox h2, .successbox
+h2{font-size:1em;font-weight:bold;display:inline;margin:0
+.5em 0 0;border:none}#catlinks{border:1px
+solid #aaa;background-color:#f9f9f9;color:black;padding:10px
+5px;margin-top:1em;clear:both}.documentDescription{font-weight:bold;display:block;margin:1em
+0;line-height:1.5em}.documentByLine{background-color:white;text-align:right;font-size:90%;clear:both;font-weight:normal;color:#76797c}.center{width:100%;text-align:center}*.center
+*{margin-left:auto;margin-right:auto}.small, .small
+*{font-size:94%}table.small{font-size:100%}#toc,.toc,.mw-warning{border:1px
+solid #aaa;background-color:#f9f9f9;color:black;padding:5px;font-size:95%}#toc h2,
+.toc
+h2{display:inline;border:none;padding:0;font-size:100%;font-weight:bold}#toc #toctitle,
+.toc #toctitle,
+#toc .toctitle,
+.toc
+.toctitle{text-align:center}#toc ul,
+.toc
+ul{list-style-type:none;list-style-image:none;margin-left:0;padding-left:0;text-align:left}#toc ul ul,
+.toc ul
+ul{margin:0
+0 0 2em}#toc .toctoggle,
+.toc
+.toctoggle{font-size:94%}.mw-warning{margin-left:50px;margin-right:50px;text-align:center}div.floatright,table.floatright{clear:right;float:right;position:relative;margin:0
+0 .5em .5em;border:0}div.floatright
+p{font-style:italic}div.floatleft,table.floatleft{float:left;clear:left;position:relative;margin:0
+.5em .5em 0;border:0}div.floatleft
+p{font-style:italic}div.thumb{margin-bottom: .5em;width:auto}div.thumbinner{color:black;border:1px
+solid #ccc;padding:3px
+!important;background-color:#f9f9f9;font-size:94%;text-align:center;overflow:hidden}div.thumbinner
+a{color:#002bb8}html
+.thumbimage{border:1px
+solid #ccc}html
+.thumbcaption{border:none;text-align:left;line-height:1.4em;padding:3px
+!important;font-size:94%}div.magnify{float:right;border:none !important;background:none !important}div.magnify a, div.magnify
+img{display:block;border:none !important}div.tright{clear:right;float:right;margin: .5em 0 1.2em 1.4em}div.tleft{float:left;clear:left;margin-right: .5em;margin: .5em 1.4em 1.2em 0}div.tnone{float:none;clear:both}div.videobox{background-color:#f9f9f9}.bigButtonContainer{margin-top: -11px;top:50%;position:absolute}.gallerybox
+.thumbcaption{position:absolute !important;bottom:0px !important;padding:5px
+!important;font-size:88%}.gallerybox .thumbcaption
+hr{color:#ccc}.videobox{position:relative}.wikiaPlaceholder
+a.bigButton{float:none;display:inline;margin:0
+auto;padding:0
+0 0 4px}.wikiaPlaceholder a.bigButton
+*{float:none}.wikiaPlaceholder a.bigButton
+big{padding:3px
+3px 3px 9px}.wikiaPlaceholder a.bigButton
+small{background-position: -295px 0;padding:3px;position:static;width:5px}.wikiaPlaceholder
+.thumbcaption{left:0}img.thumbborder{border:1px
+solid #ddd}.hiddenStructure{display:none}table.rimage{float:right;position:relative;margin-left:1em;margin-bottom:1em;text-align:center}.toccolours{border:1px
+solid #aaa;background-color:#f9f9f9;color:#000;padding:5px;font-size:95%}div.townBox{position:relative;float:right;background:white;margin-left:1em;border:1px
+solid gray;padding: .3em;width:200px;overflow:hidden;clear:right}div.townBox
+dl{padding:0;margin:0
+0 .3em;font-size:96%}div.townBox dl
+dt{background:none;margin: .4em 0 0}div.townBox dl
+dd{margin: .1em 0 0 1.1em;background-color:#f3f3f3}.special
+li{line-height:1.4em;margin:0;padding:0}.autocomment{color:gray}#pagehistory
+span.user{margin-left:1.4em;margin-right: .4em}#pagehistory
+span.minor{font-weight:bold}#bodyContent a.external,
+#bodyContent a[href ^="gopher://"]{background:url(http://images.wikia.com/common/skins/monobook/external.png) center right no-repeat;padding-right:13px}#bodyContent a[href ^="https://"],.link-https{background:url(http://images.wikia.com/common/skins/monobook/lock_icon.gif) center right no-repeat;padding-right:16px}#bodyContent a[href ^="mailto:"],.link-mailto{background:url(http://images.wikia.com/common/skins/monobook/mail_icon.gif) center right no-repeat;padding-right:18px}#bodyContent a[href ^="news://"]{background:url(http://images.wikia.com/common/skins/monobook/news_icon.png) center right no-repeat;padding-right:18px}#bodyContent a[href ^="ftp://"],.link-ftp{background:url(http://images.wikia.com/common/skins/monobook/file_icon.gif) center right no-repeat;padding-right:18px}#bodyContent a[href ^="irc://"],.link-irc{background:url(http://images.wikia.com/common/skins/monobook/discussionitem_icon.gif) center right no-repeat;padding-right:18px}#bodyContent a.external[href $=".ogg"], #bodyContent a.external[href $=".OGG"],
+#bodyContent a.external[href $=".mid"], #bodyContent a.external[href $=".MID"],
+#bodyContent a.external[href $=".midi"], #bodyContent a.external[href $=".MIDI"],
+#bodyContent a.external[href $=".mp3"], #bodyContent a.external[href $=".MP3"],
+#bodyContent a.external[href $=".wav"], #bodyContent a.external[href $=".WAV"],
+#bodyContent a.external[href $=".wma"], #bodyContent a.external[href $=".WMA"],.link-audio{background:url("http://images.wikia.com/common/skins/monobook/audio.png") center right no-repeat;padding-right:13px}#bodyContent a.external[href $=".ogm"], #bodyContent a.external[href $=".OGM"],
+#bodyContent a.external[href $=".avi"], #bodyContent a.external[href $=".AVI"],
+#bodyContent a.external[href $=".mpeg"], #bodyContent a.external[href $=".MPEG"],
+#bodyContent a.external[href $=".mpg"], #bodyContent a.external[href $=".MPG"],.link-video{background:url("http://images.wikia.com/common/skins/monobook/video.png") center right no-repeat;padding-right:13px}#bodyContent a.external[href $=".pdf"], #bodyContent a.external[href $=".PDF"],
+#bodyContent a.external[href *=".pdf#"], #bodyContent a.external[href *=".PDF#"],
+#bodyContent a.external[href *=".pdf?"], #bodyContent a.external[href *=".PDF?"],.link-document{background:url("http://images.wikia.com/common/skins/monobook/document.png") center right no-repeat;padding-right:12px}#bodyContent a.extiw,
+#bodyContent a.extiw:active{color:#36b;background:none;padding:0}a.external{color:#36b}#bodyContent .plainlinks
+a{background:none !important;padding:0
+!important}#t-ispermalink,#t-iscite{color:#999}#preftoc{margin:0;padding:0;width:100%;clear:both}#preftoc
+li{background-color:#f0f0f0;color:#000}#preftoc
+li{margin:1px
+-2px 1px 2px;float:left;padding:2px
+0 3px 0;border:1px
+solid #fff;border-right-color:#716f64;border-bottom:0;position:relative;white-space:nowrap;list-style-type:none;list-style-image:none;z-index:3}#preftoc
+li.selected{font-weight:bold;background-color:#f9f9f9;color:#000;border:1px
+solid #aaa;border-bottom:none;cursor:default;top:1px;padding-top:2px;margin-right: -3px}#preftoc>li.selected{top:2px}#preftoc a,
+#preftoc a:active{display:block;color:#000;padding:0
+.7em;position:relative;text-decoration:none}#preftoc li.selected
+a{cursor:default;text-decoration:none}#prefcontrol{padding-top:2em;clear:both}.ns-special
+#preferences{margin:0;border:1px
+solid #aaa;clear:both;padding:1.5em;background-color:#F9F9F9;color:#000}.prefsection{border:none;padding:0;margin:0}.prefsection
+fieldset{border:1px
+solid #aaa;float:left;margin-right:2em}.prefsection
+legend{font-weight:bold}.prefsection table, .prefsection
+legend{background-color:#F9F9F9;color:#000}.mainLegend{display:none}div.prefsectiontip{font-size:x-small;padding: .2em 2em;color:#666}.btnSavePrefs{font-weight:bold;padding-left: .3em;padding-right: .3em}.preferences-login{clear:both;margin-bottom:1.5em}.prefcache{font-size:90%;margin-top:2em}.page-Special_Userlogin
+#siteSub{visibility:hidden !important}.page-Special_UserLogin
+.firstHeading{display:none !important}div#userlogin form#userlogin2 label,
+div #userlogin form#userlogin2 .pseudolabel,
+form#userajaxloginform2
+label{font-size:115%;font-weight:bold}div#userlogin form#userlogin2
+input{margin-bottom:4px}#userloginForm
+form{float:left !important;position:relative}div#userlogin form#userlogin2
+table{}#userloginForm h2,
+div#userlogin form#userlogin2
+h2{padding-top:0}div#userlogin .captcha,
+#userloginForm
+.captcha{border:1px
+solid #bbb;padding:1.5em 2em;background-color:white}#userloginprompt,#languagelinks{font-size:85%}#signupWhyProvide{display:none}#signupWhyProvide_copy{color:#000}#login-sectiontip{font-size:85%;line-height:1.2;padding-top:2em}#userlogin .loginText, #userlogin
+.loginPassword{width:12em}#userloginlink a,#wpLoginattempt,#wpCreateaccount{font-weight:bold}* > html #p-cactions
+li{border:none}* > html #p-cactions li
+a{border:1px
+solid #aaa;border-bottom:none}* > html #p-cactions li.selected
+a{border-color:#fabd23}* > html #f-poweredbyico,
+* > html #f-copyrightico{width:88px}* > html #bodyContent,
+* > html #bodyContent
+pre{overflow-x:auto;width:100%;padding-bottom:25px}* html #column-content{display:inline;margin-bottom:0}* html
+div.editsection{font-size:smaller}#pagehistory
+li.selected{position:relative}* > html #column-content{float:none}* > html #column-one{position:absolute;left:0;top:0}.redirectText{font-size:150%;margin:5px}.printfooter{display:none}.not-patrolled{background-color:#ffa}div.patrollink{font-size:75%;text-align:right}span.newpage,span.minor,span.searchmatch,span.bot{font-weight:bold}span.unpatrolled{font-weight:bold;color:red}span.searchmatch{color:red}.sharedUploadNotice{font-style:italic}span.updatedmarker{color:black;background-color:#0f0}table.gallery{margin:2px;padding:2px}table.gallery
+tr{vertical-align:top}table.gallery
+td{color:black;vertical-align:top}table.gallery td
+a{color:#002bb8}table.gallery
+td.galleryheader{text-align:center;font-weight:bold}table.gallery
+caption{font-weight:bold}.wikiaPlaceholder .gallerybox
+a{color:#FFF}div.gallerybox{margin:2px}div.gallerybox
+div.thumb{background:#F9F9F9;border:1px
+solid #ccc;margin:2px;text-align:center}div.gallerytext{overflow:hidden;font-size:94%;padding:2px
+4px}span.comment{font-style:italic}span.changedby{font-size:95%}.previewnote{text-indent:3em;color:#c00;border-bottom:1px solid #aaa;padding-bottom:1em;margin-bottom:1em}.previewnote
+p{margin:0;padding:0}.editExternally{border:1px
+solid gray;background-color:#fff;padding:3px;margin-top:0.5em;float:left;font-size:small;text-align:center}.editExternallyHelp{font-style:italic;color:gray}.toggle{margin-left:2em;text-indent: -2em}table.mw_metadata{font-size:0.8em;margin-left:0.5em;margin-bottom:0.5em;width:300px}table.mw_metadata
+caption{font-weight:bold}table.mw_metadata
+th{font-weight:normal}table.mw_metadata
+td{padding:0.1em}table.mw_metadata{border:none;border-collapse:collapse}table.mw_metadata td, table.mw_metadata
+th{text-align:center;border:1px
+solid #aaa;padding-left:0.1em;padding-right:0.1em}table.mw_metadata
+th{background-color:#f9f9f9;color:#000}table.mw_metadata
+td{background-color:#fcfcfc;color:#000}table.collapsed
+tr.collapsable{display:none}ul#filetoc{text-align:center;border:1px
+solid #aaa;background-color:#f9f9f9;color:#000;padding:5px;font-size:95%;margin-bottom:0.5em;margin-left:0;margin-right:0}#filetoc
+li{display:inline;list-style-type:none;padding-right:2em}input#wpSummary{width:80%}input#wpSave,input#wpDiff{margin-right:0.33em}#editform
+.editOptions{display:inline}#wpSave{font-weight:bold}table.revisionform_default{border:1px
+solid #000}table.revisionform_focus{border:1px
+solid #000;background-color:#0BF}tr.revision_tr_default{background-color:#EEE}tr.revision_tr_first{background-color:#DDD}p.revision_saved{color:green;font-weight:bold}#mw_trackbacks{border:solid 1px #bbf;background-color:#eef;padding:0.2em}#allmessagestable
+th{background-color:#b2b2ff;color:#000}#allmessagestable
+tr.orig{background-color:#ffe2e2;color:#000}#allmessagestable
+tr.new{background-color:#e2ffe2;color:#000}#allmessagestable
+tr.def{background-color:#f0f0ff;color:#000}div.noarticletext{border:1px
+solid #ccc;background:#fff;padding: .2em 1em;color:#000}div#searchTargetContainer{left:10px;top:10px;width:90%;background:white}div#searchTarget{padding:3px;margin:5px;background:#F0F0F0;border:solid 1px blue}div#searchTarget ul
+li{list-style:none}div#searchTarget ul li:before{color:orange;content:"\00BB \0020"}div.multipageimagenavbox{border:solid 1px silver;padding:4px;margin:1em;-moz-border-radius:6px;background:#f0f0f0}div.multipageimagenavbox
+div.thumb{border:none;margin-left:2em;margin-right:2em}div.multipageimagenavbox
+hr{margin:6px}table.multipageimage
+td{text-align:center}table#sv-ext,table#sv-hooks{margin:1em;padding:0em}#sv-ext td, #sv-hooks td,
+#sv-ext th, #sv-hooks
+th{border:1px
+solid #A0A0A0;padding:0
+0.15em 0 0.15em}#sv-ext th, #sv-hooks
+th{background-color:#F0F0F0;color:black;padding:0
+0.15em 0 0.15em}tr.sv-space{height:0.8em;border:none}tr.sv-space
+td{display:none}.TablePager_nav
+a{text-decoration:none}.TablePager{border-collapse:collapse}.TablePager, .TablePager td, .TablePager
+th{border:1px
+solid #aaa;padding:0
+0.15em 0 0.15em}.TablePager
+th{background-color:#eef;color:#000}.TablePager
+td{background-color:#fff;color:#000}.TablePager tr:hover
+td{background-color:#eef}.imagelist td, .imagelist
+th{white-space:nowrap}.imagelist
+.TablePager_col_links{background-color:#eef}.imagelist
+.TablePager_col_img_description{white-space:normal}.imagelist
+th.TablePager_sort{background-color:#ccf}.templatesUsed{margin-top:1.5em}.mw-summary-preview{margin:0.1em 0}p.mw-ipb-conveniencelinks{font-size:90%;float:right}div.mw-lag-warn-normal,div.mw-lag-warn-high{padding:3px;text-align:center;margin:3px
+auto;color:#000}div.mw-lag-warn-normal{border:1px
+solid #FC6;background-color:#FFC}div.mw-lag-warn-high{font-weight:bold;border:2px
+solid #F03;background-color:#FCC}div#mw-upload-deleted-warn,div#mw-recreate-deleted-warn{padding:3px;margin-bottom:3px;border:2px
+solid #2F6FAB}div#mw-upload-deleted-warn ul li,
+div#mw-recreate-deleted-warn ul
+li{font-size:90%}.MediaTransformError{background-color:#ccc;padding:0.1em}.MediaTransformError
+td{text-align:center;vertical-align:middle;font-size:90%}.mw-arr-r{background-image:url('http://images.wikia.com/common/skins/common/images/Arr_r.png');background-repeat:no-repeat}.mw-arr-l{background-image:url('http://images.wikia.com/common/skins/common/images/Arr_l.png');background-repeat:no-repeat}.mw-arr-d,.mw-sort-desc{background-image:url('http://images.wikia.com/common/skins/common/images/Arr_d.png');background-repeat:no-repeat}.mw-arr-u,.mw-sort-asc{background-image:url('http://images.wikia.com/common/skins/common/images/Arr_u.png');background-repeat:no-repeat}.mw-hide-images
+img{display:none}.TablePager_sort{background-position:2px 50%}.TablePager th
+a{display:block}.TablePager_sort
+a{padding:0
+4px 0 16px}.TablePager_sort
+img{display:none}.changes-list-entry a.mw-arr-d,
+.changes-list-entry a.mw-arr-r{display:block;width:12px;height:12px;float:left;position:relative;top:5px}.changes-list-entry a
+img{display:none}
+/*reset_modified.css*/
+.reset div,.reset dl,.reset dt,.reset dd,.reset ul,.reset ol,.reset li,.reset h1,.reset h2,.reset h3,.reset h4,.reset h5,.reset h6,.reset pre,.reset code,.reset form,.reset fieldset,.reset legend,.reset input,.reset textarea,.reset p,.reset blockquote,.reset th,.reset
+td{margin:0;padding:0;line-height:normal}.reset
+table{border-collapse:collapse;border-spacing:0}.reset fieldset,.reset
+img{border:0}.reset address,.reset caption,.reset cite,.reset code,.reset dfn,.reset em,.reset strong,.reset th,.reset
+var{font-style:normal;font-weight:normal}.reset
+li{list-style:none;list-style-image:none}.reset caption,.reset
+th{text-align:left}.reset h1,.reset h2,.reset h3,.reset h4,.reset h5,.reset
+h6{font-size:100%;font-weight:normal;border:0}.reset q:before,.reset q:after{content:''}.reset abbr,.reset
+acronym{border:0;font-variant:normal}.reset sup,.reset
+sub{line-height:-1px;vertical-align:text-top}.reset
+sub{vertical-align:text-bottom}.reset input, .reset textarea, .reset
+select{font-family:inherit;font-size:inherit;font-weight:inherit}
+/*buttons.css*/
+a.wikia-button,
+span.wikia-button a,input[type="submit"],input[type="reset"],input[type="button"],button{background-color:#093;background-image: -moz-linear-gradient(top, #093 20%, #006722 70%);background-image: -webkit-gradient(linear, 0% 20%, 0% 70%, from(#093), to(#006722));border:1px
+solid #beddbe;border-radius:7px;box-shadow:0 1px 0 #2c802c, 0 -1px 0 #2c802c, 1px 0 0 #2c802c, -1px 0 0 #2c802c;color:#FFF;cursor:pointer;display:inline-block;font:bold 12px/17px "Lucida Grande", sans-serif;height:17px;margin:0;padding:0
+7px;text-decoration:none;white-space:nowrap;-moz-border-radius:7px;-webkit-border-radius:7px;-moz-box-shadow:0 0 0 1px #2c802c;-webkit-box-shadow:0 1px 0 #2c802c, 0 -1px 0 #2c802c, 1px 0 0 #2c802c, -1px 0 0 #2c802c}a.wikia-button.secondary,
+span.wikia-button.secondary a,input[type="submit"].secondary,input[type="reset"].secondary,input[type="button"].secondary,button.secondary{background-color:#CCC;background-image: -moz-linear-gradient(top, #CCC 20%, #AAA 70%);background-image: -webkit-gradient(linear, 0% 20%, 0% 70%, from(#CCC), to(#AAA));border-color:#E2E2E2;box-shadow:0 1px 0 #999, 0 -1px 0 #999, 1px 0 0 #999, -1px 0 0 #999;color:#333;-moz-box-shadow:0 0 0 1px #999;-webkit-box-shadow:0 1px 0 #999, 0 -1px 0 #999, 1px 0 0 #999, -1px 0 0 #999}a.wikia-button.big,
+span.wikia-button.big a,input[type="submit"].big,input[type="reset"].big,input[type="button"].big,button.big{height:30px;font-size:15px;line-height:30px;padding:0
+15px}input[type="submit"],input[type="reset"],input[type="button"],button{height:19px}input[type="submit"].big,input[type="reset"].big,input[type="button"].big,button.big{height:32px}input[type="submit"]::-moz-focus-inner,input[type="reset"]::-moz-focus-inner,input[type="button"]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border:0}a.wikia-button,
+span.wikia-button a,input[type="submit"],input[type="reset"],input[type="button"],button{filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr="#FF009933", EndColorStr="#FF006722");outline:1px
+solid #2c802c\9;overflow:visible;width:auto}a.wikia-button.secondary,
+span.wikia-button.secondary a,input[type="submit"].secondary,input[type="reset"].secondary,input[type="button"].secondary,button.secondary{filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr="#FFCCCCCC", EndColorStr="#FFAAAAAA");outline:1px
+solid #999\9}a.wikia-button:visited,
+span.wikia-button a:visited{color:#FFF}a.wikia-button.secondary:visited,
+span.wikia-button.secondary a:visited{color:#333}a.wikia-button:hover,
+span.wikia-button a:hover,input[type="submit"]:hover,input[type="reset"]:hover,input[type="button"]:hover,button:hover{text-decoration:none;text-shadow:#000 0 1px 1px}a.wikia-button.secondary:hover,
+span.wikia-button.secondary a:hover,input[type="submit"].secondary:hover,input[type="reset"].secondary:hover,input[type="button"].secondary:hover,button.secondary:hover{text-shadow:#FFF 0 1px 1px}a.wikia-button:active,
+span.wikia-button a:active,input[type="submit"]:active,input[type="reset"]:active,input[type="button"]:active,button:active{color:#FFF;background-image: -moz-linear-gradient(top, #006722 20%, #093 70%);background-image: -webkit-gradient(linear, 0% 20%, 0% 70%, from(#006722), to(#093))}a.wikia-button.secondary:active,
+span.wikia-button.secondary a:active,input[type="submit"].secondary:active,input[type="reset"].secondary:active,input[type="button"].secondary:active,button.secondary:active{color:#333;background-image: -moz-linear-gradient(top, #AAA 20%, #CCC 70%);background-image: -webkit-gradient(linear, 0% 20%, 0% 70%, from(#AAA), to(#CCC))}
+/*sprite.css*/
+.sprite,.sprite-small{background-image:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monaco/images/monaco-sprite.png)}.sprite{height:16px;width:16px}.sprite-small{height:12px;width:12px}.sprite,.sprite-small{position:relative;vertical-align:middle}.sprite{top: -2px}.sprite-small{top: -1px}.sprite-small.settings{background-position:0 -94px}.sprite-small.sorted{background-position:  -12px -94px}.sprite-small.sort{background-position:  -24px -94px}.sprite-small.add{background-position:  -36px -94px}.sprite-small.close{background-position:  -48px -94px}.sprite.edit{background-position:0 -106px}.sprite.new{background-position: -16px -106px}.sprite.photo{background-position: -32px -106px}.sprite.video{background-position: -48px -106px}.sprite.close{background-position: -64px -106px}.sprite.history{background-position:0 -122px}.sprite.pagelink{background-position: -16px -122px}.sprite.move{background-position: -32px -122px}.sprite.protect{background-position: -48px -122px}.sprite.viewsource{background-position: -64px -122px}.sprite.ok{background-position:0 -138px}.sprite.error{background-position: -16px -138px}.sprite.add{background-position: -32px -138px}.sprite.delete{background-position: -48px -138px}.sprite.random{background-position: -64px -138px}.sprite.user{background-position:0 -154px}.sprite.bloglist{background-position: -16px -154px}.sprite.blog{background-position: -32px -154px}.sprite.talk{background-position: -48px -154px}.sprite.share{background-position: -64px -154px}.sprite.recent{background-position:0 -170px}.sprite.follow{background-position: -16px -170px}.sprite.search{background-position: -32px -170px}.sprite.refresh{background-position: -48px -170px}.sprite.back{background-position: -64px -170px}.sprite.watch{background-position: -17px -170px}.sprite.unwatch{background-position: -17px -170px}.sprite.details{background-position:0 -186px}.sprite.progress{background-image:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/common/images/ajax.gif)}
+/*root.css*/
+body{font-family:arial,sans-serif;font-size:10pt;margin:0}.color1, .yui-panel
+.hd{background-color:#36C;color:white}.color1
+a{color:white}.color2{background-color:#F5F5F5}.dark_text_1{color:#36C}.dark_text_2{color:#1f7a1f}.accent{background-color:#d6e0f5;border-color:#36C;color:#000}.neutral{background-color:#EEE;border-color:#AAA;color:#000}.mask{background:#000;opacity: .6;position:fixed}.right{text-align:right}body.mainpage{min-width:990px}.monaco_shrinkwrap{position:relative;width:100%}#background_accent1{background-repeat:no-repeat;margin-right:481px;position:absolute;right:50%;z-index:2}#background_accent2{background-repeat:no-repeat;background-position:481px 0px;left:50%;position:absolute;width:50%;z-index:2}body.mainpage .HOME_TOP_LEADERBOARD, body.mainpage
+.FAST_HOME1{height:90px;margin-bottom:10px}body.mainpage .HOME_TOP_RIGHT_BOXAD, body.mainpage
+.FAST_HOME2{float:right;min-height:250px;position:relative;width:300px;z-index:2}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.clearfix{display:inline-block}/*\*/* html
+.clearfix{height:1%}.clearfix{display:block}/**/.wikia_search_field{float:left;color:#1e64b4;font-family:"arial",sans-serif;font-size:14pt;width:400px;padding:0;margin:0
+5px 0 0}.wikia_search_header{font-size:155%;font-weight:bold;margin-bottom:10px}.SpriteWrapper{position:relative}#HOME_TOP_LEADERBOARD{margin-bottom:10px;margin-left:auto;margin-right:auto;width:728px}#HOME_TOP_RIGHT_BOXAD{float:right;margin-bottom:10px;position:relative;z-index:1}#HOME_LEFT_SKYSCRAPER_1{margin:0
+auto 10px auto}#HOME_LEFT_SKYSCRAPER_2{margin:0
+auto}#LEFT_SKYSCRAPER_1,#LEFT_NAVBOX_1,#LEFT_NAVBOX_2{margin:0
+auto 10px auto}#LEFT_SKYSCRAPER_2{margin:0
+auto}#TOP_LEADERBOARD{margin-bottom:10px;margin-right:auto;margin-left:auto;width:728px}#TOP_RIGHT_BOXAD{float:right;margin-left:10px;margin-bottom:10px}#FOOTER_SPOTLIGHT_LEFT,#FOOTER_SPOTLIGHT_MIDDLE,#FOOTER_SPOTLIGHT_RIGHT{margin:0
+auto}.wikia_ad{z-index:15;display:none;position:absolute}.wikia_spotlight{display:none;position:absolute}#HOME_LEFT_SKYSCRAPER_1_load,#HOME_LEFT_SKYSCRAPER_2_load,#LEFT_SKYSCRAPER_1_load,#LEFT_SKYSCRAPER_2_load,#LEFT_SKYSCRAPER_3_load,#LEFT_SPOTLIGHT_1_load,#LEFT_NAVBOX_1_load,#LEFT_NAVBOX_2_load{z-index:20}#LEFT_SKYSCRAPER_1_load,#LEFT_SKYSCRAPER_2_load,#LEFT_SKYSCRAPER_3_load,#HOME_LEFT_SKYSCRAPER_1_load,#HOME_LEFT_SKYSCRAPER_2_load{height:600px;width:160px}#TOP_LEADERBOARD_load,#HOME_TOP_LEADERBOARD_load{height:90px;width:728px}#HOME_TOP_RIGHT_BOXAD_load,#TOP_RIGHT_BOXAD_load{width:300px}img[src$="noad.gif"]{display:none}body>table{margin:0
+auto}
+/*header.css*/
+#wikia_header{border-bottom:1px solid #999;height:50px;position:relative}#wikia_logo{background:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monaco/images/wikia_logo.png) no-repeat;height:24px;margin:0
+auto;padding:0;text-indent: -5000px;width:93px}#wikia_logo
+a{display:block;height:24px;width:93px}.header-button,.header-button:hover,.header-button:active{background-image:none;border:0;font:bold 8pt/15px "Arial", sans-serif;height:15px;text-shadow:none;text-transform:uppercase;-moz-border-radius:5px;-moz-box-shadow:none;-webkit-border-radius:5px;-webkit-box-shadow:none;filter:none}.header-button
+img{background:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monaco/images/monaco-sprite.png) -72px -94px;height:4px;margin-left:3px;width:7px}#wikia_header
+.headerMenuButton{cursor:pointer;margin-top:13px;overflow:hidden;padding-right:20px;position:relative}#wikia_header .headerMenuButton
+*{float:left;font-size:8pt;font-weight:bold;height:15px;line-height:15px}.headerMenuButton dt, .headerMenuButton
+dd{background:url(http://images.wikia.com/common/skins/monaco/images/header_button.png)}.headerMenuButton
+dt{color:#EEE;padding-left:6px;text-transform:uppercase}.headerMenuButton
+dd{clip:rect(0px 300px 15px 280px);float:right !important;position:absolute;right:0;top:0;width:300px}#wikia_header
+a.bigButton{margin-top: -5px}a.bigButton{display:block;float:left;height:21px;overflow:hidden;padding-right:10px;position:relative;text-decoration:none}a.bigButton:hover{text-decoration:none}a.bigButton
+*{cursor:pointer;float:left;font-family:"Lucida Grande",arial,sans-serif;font-size:9pt;font-weight:bold;height:21px;line-height:21px}a.bigButton big, a.bigButton
+small{background:url(http://images.wikia.com/common/skins/monaco/images/big_button.png?1) no-repeat}a.bigButton
+big{color:#EEE;padding-left:10px}a.bigButton
+small{clip:rect(0px 300px 21px 290px);position:absolute;right:0;width:300px}a.greyButton
+big{color:#111}#userData{line-height:32px;position:absolute;right:5px;top:0}#userData
+span{font-size:9pt;margin-right:5px}#header_username
+a{color:#36C;font-weight:bold;text-decoration:none}#header_username a:hover{text-decoration:underline}#userData
+.headerMenuButton{margin-top:9px}#userName{font-weight:bold;color:#36C}.headerMenu{border-width:0 1px 1px;border-style:solid;border-color:#999;display:none;font-size:9pt;position:absolute;-moz-opacity: .95;opacity: .95;overflow:hidden;visibility:visible;z-index:1000}.headerMenu
+a{background:transparent;color:inherit}.headerMenu
+td{padding:7px}#goToHub{display:block;font-weight:bold;padding-bottom:5px;text-align:center}#wikia_header.headerMenu
+a{background-color:transparent}#headerMenuUser
+ul{padding:3px}#headerMenuUser
+li{padding:2px
+5px}#headerMenuUser
+a{text-decoration:none}#headerMenuUser a:hover{text-decoration:underline}#wikiaBranding{text-align:center;padding-top:5px;position:relative;width:216px;z-index:2}#wikia_header
+#headerButtonHub{margin-top:3px}#background_strip{background:white;border-bottom:1px solid #999;height:155px}#wiki_logo{background-repeat:no-repeat;background-position:center center;height:155px;position:absolute;text-indent: -1000px;width:216px;z-index:3}#wiki_logo
+a{display:block;height:155px;width:216px;text-decoration:none}#header_ad{float:right;margin:15px
+16px 0 284px;position:relative;text-align:center;z-index:2}#accent_graphic1{left:0;position:absolute}#accent_graphic2{position:absolute;right:0}#userloginRound_c{z-index:2000 !important}#userloginRound_mask{z-index:1000 !important}#userloginRound
+.r_boxContent{background-color:#fff;color:#000;border:solid 1px #aaa}#userloginRound
+.boxHeader{padding:3px
+5px}#userloginRound
+form{padding:3px;font-size:0.9em}#request_wiki{}#request_wiki.loggedin{font-size:9pt;left:221px;line-height:32px}#request_wiki_ad{margin-left:10px}#requestWikiData{font-size:9pt;left:221px;line-height:32px;position:absolute;top:0;white-space:nowrap}#widget_cockpit_list{margin:5px
+0;position:relative;width:10000000px;z-index:1}#widget_cockpit_list
+li{float:left;font-size:8.5pt;height:60px;line-height:11px;margin:0
+5px;overflow:hidden;padding-left:55px;position:relative;width:145px}#widget_cockpit_list li
+div.icon{background-repeat:no-repeat;height:50px;left:0;position:absolute;top:5px;width:50px}#widget_cockpit_list li
+br{clear:both}#widget_cockpit_list li
+h1{border:none;float:left;font-size:10pt;font-weight:bold;position:relative}#widget_cockpit_list h1
+img{cursor:pointer;margin-left:3px}.WidgetNeedHelpThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_needshelp.png)}.WidgetTopContentThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_topcontent.png)}.WidgetMyEditsThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_myedits.png)}.WidgetAncientPagesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_stalepages.png)}.WidgetJabberThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_jabber.png)}.WidgetLastWikisThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_lastwikis.png)}.WidgetMostVisitedThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_mostvisited.png)}.WidgetRecentChangesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_recentchanges.png)}.WidgetTopUsersThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_topusers.png)}.WidgetTopVotedThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_topvoted.png)}.WidgetWatchlistThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_watchlist.png)}.WidgetEditedRecentlyThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_recenteditors.png)}.WidgetFeedThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_rss.png)}.WidgetWeatherThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_weather.png)}.WidgetTipsThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_tips.png)}.WidgetActiveTalkPagesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_activetalkpages.png)}.WidgetBlockUserThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_block_user.png)}.WidgetCountdownThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_countdown.png)}.WidgetReferrersThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_referers.png)}.WidgetShoutBoxThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_shoutbox.png)}.WidgetSlideshowThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_slideshow.png)}.WidgetNewContributorsThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_new_contributors.png)}.WidgetProblemReportsThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_problem_reports.png)}.WidgetWikiaSearchThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_wikia_search.png)}.WidgetWikiPageThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_wiki_page.png)}.WidgetHotPagesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_hot_pages.png)}.WidgetNewestImagesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_newestimages.png)}.WidgetRelatedCommunitiesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_related_communities.png)}.WidgetBookmarkThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_bookmark.png)}.WidgetContribsThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_contribs.png)}.WidgetNewPagesThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_new_pages.png)}.WidgetAnswersThumb
+div{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_answers.png)}.WidgetMagCloudThumb
+div{background-image:url(http://images.wikia.com/common/releases_trunk/skins/common/widgets/icons/widget_magcloud.png)}body.ajax
+*{cursor:wait !important}ul.jq-ui-autocomplete{position:absolute;overflow:hidden;background-color:#fff;border:1px
+solid #aaa;margin:0px;padding:0;list-style:none;font:normal .75em/.75em Verdana, Arial, sans-serif;color:#333;z-index:30}ul.jq-ui-autocomplete
+li{display:block;padding: .3em .5em .3em .3em;overflow:hidden;width:100%}ul.jq-ui-autocomplete
+li.active{background-color:#3875d7;color:#fff}
+/*article.css*/
+#wikia_page{background:#FFF;border:1px
+solid #AAA;height:1%;margin:0
+5px 0 216px;position:relative;overflow:visible;top: -176px}#page_bar{background-image: -moz-linear-gradient(top, rgba(0,0,0,0.06) 0%, rgba(0,0,0,0) 33%, rgba(0,0,0,0) 42%, rgba(0,0,0,0.1) 100%);background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, rgba(0,0,0,0.06)), color-stop(0.33, rgba(0,0,0,0)), color-stop(0.42, rgba(0,0,0,0)), color-stop(1.0, rgba(0,0,0,0.1)));background-position:top left;background-repeat:repeat-x;color:white;font-family:tahoma,sans-serif;font-size:11pt;margin:2px
+2px 0;overflow:hidden;padding:0
+5px}#page_bar.alt{margin:0
+2px;position:fixed;top:0}#page_bar
+u{float:none}#page_controls
+li{float:left;margin-right:12px;line-height:32px;position:relative}#page_controls
+img{top: -1px}#page_controls
+a{background:transparent;margin-left:2px;position:relative;text-decoration:none;z-index:2}#page_controls a:hover{text-decoration:underline}#control_edit div, #control_form_edit
+div{clip:rect(0px 16px 16px 0px);left:0px}#control_history
+div{clip:rect(0px 32px 16px 16px);left: -16px}#control_watch
+div{clip:rect(0px 48px 16px 32px);left: -32px}#control_unwatch
+div{clip:rect(0px 240px 16px 224px);left: -224px}#control_move
+div{clip:rect(0px 64px 16px 48px);left: -48px}#control_protect div, #control_unprotect
+div{clip:rect(0px 80px 16px 64px);left: -64px}#control_delete div, #control_undelete
+div{clip:rect(0px 96px 16px 80px);left: -80px}#control_report-problem
+div{clip:rect(0px 224px 16px 208px);left: -208px}#control_viewsource
+div{clip:rect(0px 256px 16px 240px);left: -240px}#control_addsection
+div{clip:rect(0px 288px 16px 272px);left: -272px}#control_blog-create-tab
+div{clip:rect(0px 144px 16px 128px);left: -128px}#control_purge
+div{clip:rect(0px 336px 16px 320px);left: -320px}#control_share_feature
+div{clip:rect(0px 352px 16px 336px);left:-336px}#page_controls .disabled
+*{filter:alpha(opacity=40);opacity: .4;cursor:wait}#page-controls .disabled a:hover{text-decoration:none}#page_tabs{float:right;font-family:arial,sans-serif}#page_tabs
+li{background-color:#EEE;color:#000;cursor:pointer;float:left;padding:0
+8px;height:27px;line-height:27px;margin-left:3px;margin-top:5px}#page_tabs
+li.selected{background-color:white;color:#000;font-weight:bold}#page_tabs
+a{background:transparent;color:#000;text-decoration:none}#page_tabs a:hover{text-decoration:underline}#article{min-height:200px;padding:10px;position:relative;overflow:visible}#articleFooter{border-top:1px dashed #CCC;font-size:9pt;margin:0;overflow:hidden;padding:0}#articleFooter
+table{border-collapse:collapse;width:100%}#articleFooter
+td{padding:10px;vertical-align:top}#articleFooter
+td.col2{border-left:1px dashed #CCC;width:50%}#articleFooter
+strong{border:0;color:#333;font-size:10pt;font-weight:bold;float:left;line-height:22px;margin:0
+10px 0 0;padding:0;clear:both}#articleFooter
+ul.actions{margin:0;padding:0}#articleFooter ul.actions
+li{line-height:1.5em;padding:2px
+0;position:relative;clear:both;margin-right:25px;overflow:hidden !important}#articleFooter ul.actions li
+div{display:inline;position:relative}#fe_history{float:left}#fe_permalink{float:left}#fe_recent{float:left;clear:none !important}#fe_whatlinkshere{float:left;clear:none !important}#articleFooter .col2
+strong{display:block}.button{border:4px
+double #FFF;cursor:pointer;font-family:"Lucida Grande",Tahoma,sans-serif;font-size:12px;font-weight:bold;padding:2px
+5px}.editingTips .accordion-menu{display:block !important;position:absolute;left:10px;width:200px;margin-top: -20px}.editingTips #widget_sidebar,
+.editingTips #background_strip .monaco_shrinkwrap,
+.editingTips
+#headerButtonHub{display:none}.editingTips
+#wikia_page{margin-left:5px}.editingTips
+#bodyContent{margin-left:216px}.editingWide .accordion-menu{display:none !important}.editingWide
+#bodyContent{margin-left:0px}.editingWide
+#wikiPreview{margin-left:216px}#editingTips{height:363px}.editsectionbutton{background-color:#FFC;border:1px
+solid #999;color:#FFC;float:none;padding:3px
+1px;position:relative;top: -2px}.editsectionbutton
+a{background:transparent !important;color:#333}.editsection-upper{margin-left:16px;position:relative;margin-bottom: -2px;top: -3px;font-size:67%}ul.mw-search-results{margin-top:1.25em;list-style-type:none;list-style-image:none;font-family:"Arial",sans-serif}body
+div.searchresult{font-size:small;max-width:42em;width:auto !important}.mw-search-results
+a{font-size:medium;text-decoration:underline}.mw-search-results .mw-search-result-data{font-size:70%}span.searchmatch{color:inherit}.yui-panel{color:#000;background-color:#fff;font-family:Arial,sans-serif}#afs_narrow{border-left:1px solid #CCC;clear:right;float:right;margin-left:10px;padding-left:10px;width:220px}#afs_wide
+.ad_text{padding-right: .5em}.google_afs
+a{background-image:none !important}#bodyContent a.external, #bodyContent a[href^="gopher://"]{background:url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monaco/images/monaco-sprite.png) top right no-repeat}
+/*widgets.css*/
+#cockpit{position:relative}#cockpit_wrapper{overflow:auto;height:85px;position:relative}#widget_cockpit_list{position:absolute}#cockpit_close{cursor:pointer;position:absolute;right:5px;top:50px;z-index:2000}body.widgetsAddingBlocked
+.add{cursor:default;opacity:0.5}#widget_sidebar{left:5px;position:absolute;top:5px;width:206px;z-index:995}#sidebar_1{padding-bottom:100px}.widget{background:#FFF;border:1px
+solid #AAA;color:#000;margin-bottom:10px !important;padding:2px
+!important}.widget
+dt{cursor:move;font-family:tahoma,arial,sans-serif;font-size:9pt;font-weight:bold;line-height:1.2em;padding:3px}.loggedout .widget
+dt{cursor:default}.widget
+dt.mini{font-size:8pt;padding:2px;text-align:center}.widget .widgetToolbox
+img{cursor:pointer;float:right;margin:3px
+0 0 4px}.widget
+dd{font-size:9pt;padding:7px;margin:0;max-height:250px;overflow-y:auto;overflow-x:hidden}.widget
+h1{font-family:tahoma,arial,sans-serif;font-size:10pt;font-weight:bold}.widget
+li{padding: .15em 0}.widget
+.widgetViewControl{border-bottom:1px solid #AAA;font-size:9pt;margin-bottom:5px;padding-bottom:5px}.widget
+.widgetMore{padding:5px
+0;text-align:right;text-transform:lowercase}.widget_loading{height:30px;background-image:url('http://images.wikia.com/common/skins/common/images/ajax.gif');background-position:50% 50%;background-repeat:no-repeat}.widget form
+label{display:inline}.widget form
+input{margin:3px
+0;width:170px}.widget form
+select{margin:3px
+0;width:180px}.widget form input.checkbox,
+.widget form
+input.editor_button{width:auto;margin:0
+3px}#search_box{background-image: -moz-linear-gradient(top, rgba(0,0,0,0.06) 0%, rgba(0,0,0,0) 33%, rgba(0,0,0,0) 42%, rgba(0,0,0,0.1) 100%);background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, rgba(0,0,0,0.06)), color-stop(0.33, rgba(0,0,0,0)), color-stop(0.42, rgba(0,0,0,0)), color-stop(1.0, rgba(0,0,0,0.1)));background-position:top left;background-repeat:repeat-x;padding:4px;position:relative}#searchform{background-color:#FFF;background-image: -moz-linear-gradient(top, #BFBFBF 0%, #FFF 40%);background-image: -webkit-gradient(linear, 0% 0%, 0% 40%, from(#BFBFBF), to(#FFF));border:1px
+solid #039;-moz-border-radius:5px;-webkit-border-radius:5px}#search_field{background:transparent;border:0;color:gray;font-size:9pt;height:22px;line-height:22px;margin:0;padding:0
+3px 0 3px;width:164px}#search_field.field_active{color:#000}#search-button{border-left:1px solid #CCC;height:16px;margin:0;position:absolute;right:8px;top:8px;width:16px}#navigation
+*{overflow:visible}#navigation
+.widget{margin:0
+!important}.border-fix{border-bottom:none !important}.sub-menu{border:1px
+solid #D4DFD7;padding:5px
+0px;position:absolute;right: -205px;top:0;width:200px;z-index:1000}#navigation .menu-item{border-bottom:1px solid #EEE;display:block;font-family:Tahoma,arial,sans-serif;font-weight:bold;height:1%;padding:0;position:relative}#navigation
+a{color:#333;display:block;height:1%;padding:3px
+5px;text-decoration:none;overflow:hidden}#navigation .Monaco-sidebar_edit{font-size:80%;text-align:right}#navigation .Monaco-sidebar_more{text-align:right}.navigation-hover{background-color:#e0efff}#navigation
+em{font-family:arial,sans-serif;font-size:16pt;font-weight:bold;line-height:20px;position:absolute;right:3px;top:0px}#navigation
+.widget{margin:0}#link_box_table{font-size:8pt;font-weight:bold;width:100%}#link_box_table .disabled
+*{filter:alpha(opacity=40);opacity: .4;cursor:wait}#link_box_table
+td{padding:1px
+4px;vertical-align:top;overflow:hidden}#link_box_table
+a{background:transparent}#link_box_dynamic .link_box_dynamic_item:first-line {line-height:16px}#link_box_dynamic
+.link_box_dynamic_item{padding:3px
+0;position:relative}.yuimenuitemmore a,
+.yuimenuitemedit1 a,
+.yuimenuitemedit2
+a{text-align:right;font-size:8pt;padding:2px
+2px !important}.link-suggest-container{z-index:1000;position:absolute;top:25px;left:5px;width:171px}.yui-ac-content{border:1px
+solid #808080 !important;color:#000;position:absolute;width:100%;background:#fff;overflow:hidden;z-index:9050}.yui-ac-content
+ul{float:none !important;margin:0
+!important;padding:0
+!important;width:100%;list-style-image:none !important}.yui-ac-content
+li{float:none !important;font-size:9pt;margin:0
+!important;padding:1px
+0px 0px 3px;cursor:default;white-space:nowrap}#search_box{position:relative;z-index:1}#searchSuggestContainer{z-index:20000}.autocomplete-w1{left:0px;margin:8px
+0 0 6px;position:absolute;top:0px;_background:none;_margin:0}.autocomplete{background:#FFF;border:1px
+solid #999;color:#000;cursor:default;font-size:0.9em;margin: -6px 6px 6px -6px;max-height:350px;overflow:hidden;text-align:left;width:170px !important;_margin:0}.autocomplete
+.selected{background:#F0F0F0}.autocomplete
+div{padding:2px
+5px;white-space:nowrap}.widgetTag{width:206px;position:static}.widgetTag
+.widget_title{display:none}.widgetTag
+dl{position:relative}.widget_sort_placeholder{background:transparent;border:1px
+dashed #AAA;margin-bottom:10px !important;padding:2px
+!important}#wpName1Ajax,#wpPassword1Ajax,#wpName2Ajax,#wpPassword2Ajax{float:left;margin-right:5px}.toolbar{border-top-style:solid;border-top-width:1px;padding:3px
+5px !important}
+/*modal.css*/
+div.modalWrapper{background:#FFF;border:1px
+solid #AAA;color:#000;left:50%;padding:2px;position:absolute;visibility:visible;z-index:1001}h1.modalTitle{font-weight:bold;padding:5px;position:relative}h1.modalTitle
+img{cursor:pointer;position:absolute;right:5px;top:auto}.modalInside{padding:5px
+!important}.modalToolbar{border-top-style:solid;border-top-width:1px;padding:3px
+8px !important}.blackout{background:#000;left:0;opacity:0;position:absolute;top:0;visibility:visible;width:100%;z-index:1000}#positioned_elements{visibility:hidden}#WikiaConfirm
+p{font-size:0.9em;line-height:1.4em;padding:8px
+5px}#WikiaConfirm
+.modalToolbar{text-align:right}#WikiaConfirm .modalToolbar
+a{margin:0
+0 0 4px}#wpName1Ajax,#wpPassword1Ajax{width:150px}.wpAjaxRegisterTable
+.wpAjaxLoginInput{padding-top:10px;vertical-align:top}.wpAjaxLoginLine{border-top:solid;border-width:1px;border-color:black}.wpAjaxLoginPreLine
+td{padding-bottom:15px}.wpAjaxLoginInput
+label{display:block;font-weight:bold;font-family:arial,sans-serif;font-size:10pt;float:left}.wpAjaxLoginInput input,.wpAjaxLoginInput
+select{width:250px}.wpAjaxRegisterTable{width:680px;margin-left:10px}.wpAjaxLoginData
+select{width:80px}.wpAjaxLoginInput
+.captcha{border:none;padding:0px}.wpAjaxLoginInput .captcha
+img{width:112px;height:55px;background-color:#EEE;padding:4px
+4px 4px 4px;border-style:solid;border-width:1px;border-color:#AAA;margin-left:6px}.wpAjaxLoginInput
+#wpCaptchaInfo{width:125px;display:inline-block}.wpAjaxLoginInput .captcha
+input{width:120px}.wpAjaxLoginLine
+td{border-top-style:solid;border-top-color:#AAA;border-width:1px}.wpAjaxLoginLine
+td{padding-top:15px}.ajaxregister_button{color:black}.ajaxregister_button
+span{color:black;width:120px}.ajaxregister_button_enable{color:black}.ajaxregister_button_enable
+span{color:black}#userloginErrorBox,#userloginErrorBox2,#userloginErrorBox3{background-color:#FFC;border:1px
+solid #AAA;color:#000;display:none;margin-left:10px;margin-right:10px;margin:1em
+3em 1em 0;padding:6px
+6px 6px 6px}.wpAjaxLoginInput
+.pseudolabel{font-weight:bold}.wpAjaxLoginInput #wpEmailInfo, .wpAjaxLoginInput
+#wpBirthDateInfo{margin-left:4px}#wpBirthDateInfoModal div,
+#wpUserCaptchaInfoModal div,
+#wpEmailInfoModal
+div{padding:8px
+8px 8px 8px}#wpUserCaptchaInfoModal
+p{line-height:1.5em;margin:0.4em 0 0.5em}#wpBirthDateInfoModal h1 div,
+#wpUserCaptchaInfoModal h1 div,
+#wpEmailInfoModal h1
+div{padding:0
+0 0 0}#wpName2Ajax,#wpPassword2Ajax,#wpName1Ajax,#wpPassword1Ajax{width:150px}#AjaxLoginButtons
+input{background-color:#EEE;border:1px
+solid #AAA;-moz-box-shadow:none;color:black;background-image:none;-webkit-box-shadow:none}#AjaxLoginButtons input:hover{text-shadow:none}#AjaxLoginButtons .ajaxregister-enable{background-color:#D6E0F5;border:1px
+solid #36C}.yui-overlay,.yui-panel-container{visibility:hidden;position:absolute;z-index:2}.yui-panel{visibility:hidden;position:relative;left:0;top:0}body.rtl h1.modalTitle
+img{left:5px;right:auto}.wpAjaxRegisterTable
+span{display:block;height:20px}
+/*footer.css*/
+#monaco_footer{font-size:x-small;margin:0
+5px 0 220px;position:relative;top: -155px;height:1px}#spotlight_footer{font-size:x-small;margin-bottom:20px;overflow:hidden}#spotlight_footer
+table{width:100%}#spotlight_footer table
+td{padding:5px;text-align:center}#wikia_footer{font-size:9pt;margin-bottom:20px;width:100%}#wikia_footer th, #wikia_footer
+td{padding-bottom:15px;vertical-align:middle}#wikia_footer
+th{font-weight:bold;width:150px}#wikia_corporate_footer{padding-top:10px;text-align:center}
+/*star_rating.css*/
+.star-rating,
+.star-rating a:hover,
+.star-rating .current-rating{background:transparent url(http://images1.wikia.nocookie.net/__cb21710/common/skins/monaco/images/monaco-sprite.png) repeat-x 0 -40px}.star-rating{float:left;height:18px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0px;padding:0px;position:relative;width:100px;overflow:hidden}.star-rating
+li{float:left;margin:0px;padding:0px}.star-rating
+a{display:block;height:18px;overflow:hidden;padding:0px;position:absolute;text-decoration:none;text-indent:-9000px;width:20px;z-index:20;top:0px;cursor:pointer}.star-rating a:hover{background-position:0 -76px;border:medium none;left:0px;z-index:2;cursor:pointer}.star-rating .one-star{left:0px}.star-rating .one-star:hover{width:20px}.star-rating .two-stars{left:20px}.star-rating .two-stars:hover{width:40px}.star-rating .three-stars{left:40px}.star-rating .three-stars:hover{width:60px}.star-rating .four-stars{left:60px}.star-rating .four-stars:hover{width:80px}.star-rating .five-stars{left:80px}.star-rating .five-stars:hover{width:100px}.star-rating .current-rating{background-position:0 -58px;height:18px;position:absolute;text-indent:-9000px;z-index:1}#unrateLink{display:block;float:left;height:18px;line-height:18px;margin-left:10px;position:relative;top:2px}#unrateLink a:hover{text-decoration:underline}.star-rating-progress{background-image:url('http://images.wikia.com/common/skins/common/images/ajax.gif') !important;background-repeat:no-repeat}.star-rating-progress
+li{display:none}
+/*ny.css*/
+.cleared{clear:both}#widget_sidebar{z-index:20}.listpages-left{float:left;border:1px
+solid #dcdcdc;width:500px}.listpages-link{margin:0px;padding:0px}.listpages-item{margin-top:10px}.listpages-item
+a{text-decoration:underline;font-weight:bold}.listpages-image{float:left;margin-right:10px}.listpages-categories{color:#78BA5D;font-size:10px;font-weight:bold}.listpages-categories
+a{color:#78BA5D;font-size:10px;text-decoration:none;border-bottom:1px dotted #78BA5D}.listpages-date{color:#888;font-size:10px}.listpages-stats{color:#666;font-weight:bold;font-size:11px}.listpages-stats
+img{vertical-align:middle;margin:-2px 1px 0px 2px}.listpages-votebox{margin:0px
+10px 3px 0px;float:left;text-align:center;width:25px}.rating-total{color:#666;font-weight:bold;font-size:11px;margin:3px
+0px 0px 0px}.listpages-votebox-number{background-color:#89C46F;color:#FFF;margin:0px
+0px 2px 0px;font-weight:bold;padding:3px
+0px}.listpages-votebox-text{margin:-1px 0px 0px 0px;font-size:9px;color:#777;line-height:9px}.listpages-commentbox-number{background-color:orange;color:#FFF;font-weight:bold;padding:3px
+0px;margin:0px
+0px 2px}.listpages-blurb{margin:0px
+0px 2px 0px}.listpages-blurb
+a{font-size:11px;text-decoration:underline}.listpages-nav-buttons{margin:10px
+0px 0px 0px}.listpages-blurb-size-small{font-size:11px;line-height:15px}.listpages-blurb-size-medium{font-size:12px;line-height:16px}.listpages-blurb-size-large{font-size:13px;line-height:17px}.listpage-button{background-color:#FAFAFA;border:1px
+solid #DCDCDC;color:#376EA6;font-size:12px;padding:3px;margin:0px
+3px 0px 0px}.listpage-button-off{background-color:#FAFAFA;border:1px
+solid #DCDCDC;color:#797979;font-size:12px;padding:3px;margin:0px
+3px 0px 0px}.listpages-nav-buttons
+a{margin:0px
+5px 0px 0px}.full{width:530px}.reply{margin-left:70px !important;width:460px}.c-item{position:relative;border-bottom:1px solid #dcdcdc;padding:0px
+0px 10px 0px;margin:0px
+0px 15px 0px}.c-avatar{position:absolute;top:0px;left:0px}.c-avatar
+img{padding:3px;border:1px
+solid #dcdcdc;background-color:#fff}.c-container{position:relative;top:0px;top:0px;margin:0px
+0px 0px 70px}.c-user{font-weight:bold;position:relative;margin:0px
+0px 6px 0px}.c-user
+a{font-size:14px;text-decoration:none}.c-time{font-size:10px;color:#888;line-height:11px !important;font-weight:normal !important}.c-user-level{color:#666;font-size:11px;margin:0px
+5px 0px 5px}.c-comment{overflow:auto}.c-ignored{color:#666;font-size:11px;padding:5px
+0px 10px 0px;margin:0px
+0px 15px 0px;border-bottom:1px solid #dcdcdc}.c-ignored-links
+a{}.f-message{width:460px}.r-message{width:360px}.c-score{position:absolute;top:-2px;right:0px;font-size:11px;padding-top:6px;font-weight:bold;z-index:4}.c-score-title{margin:0px
+10px 0px 0px}.c-actions{float:right;font-size:10px;margin:10px
+0px 0px 0px}.c-delete
+a{color:red !important}.c-score
+img{vertical-align:middle;margin:-5px 0px 0px 2px}.c-form-title{color:#333;font-weight:bold;font-size:17px;margin:0px
+0px 5px 0px}.c-form-message{font-size:11px;width:400px;line-height:13px;color:#666;padding:5px
+0px 10px 0px}textarea#comment{width:530px}.c-form-button{padding:10px
+0px 0px}.c-order{padding:20px
+0px}.c-spy{float:left;font-size:10px;margin:0px
+0px 0px 10px}.c-order-select{float:left}.vote-box{background-color:#68BD46;height:30px;padding:13px
+0px 0px;text-align:center;width:43px}.vote-number{color:#fff;font-size:16px;font-weight:bold}.vote-action{text-align:center;width:43px}.vote-action
+a{font-weight:bold;font-size:11px;text-decoration:none}.rating-score{background-color:#68BD46;color:#fff;float:left;font-size:14px;font-weight:bold;padding:1px
+8px 0px;margin:1px
+7px 0px 0px;text-align:center}.ratings-top{position:absolute;top:20px !important;right:10px !important;width:100%}.rating-section
+img{vertical-align:text-bottom}.rating-voted{color:#666;line-height:10px;font-size:9px;position:absolute;right:0px}.random-users-avatars{padding:0px
+0px 0px 10px}.random-users-avatars
+h2{border-bottom:none;font-weight:bold;margin:0px
+0px 0px 0px !important;padding:7px
+0px 8px 0px}.random-users-avatars
+img{border:1px
+solid #DCDCDC;height:50px;margin:0px
+2px 2px 0px;width:50px}.mp-site-activity
+h2{border-bottom:none;padding:15px
+0px 8px 0px;margin:0px}.mp-friends-activity{padding:0px
+0px 15px 0px}.mp-friends-activity
+h2{letter-spacing:-1px;color:#333;font-size:18px;margin:0px
+0px 8px 0px !important}.mp-activity-timestamp{color:#999;font-size:9px;overflow:hidden;margin:0px
+0px 0px 6px}.mp-activity{border-bottom:1px solid #dcdcdc;padding:7px
+0px}.mp-activity-last{padding:7px
+0px 0px 0px}.mp-activity img, .mp-activity-bottom
+img{vertical-align:middle;margin:0px
+5px 0px 0px}.mp-activity a, .mp-activity-bottom
+a{text-decoration:none}.item{color:#666;margin:2px
+25px}.item
+a{color:#666}.item
+img{border:1px
+solid #dcdcdc;padding:1px;background-color:#fff}#recent-all{padding:0px
+0px 25px 0px}.mp-welcome-logged-in{margin:0px
+0px 0px 0px}.mp-welcome-logged-in
+h2{font-size:20px;font-weight:bold;line-height:24px;border-bottom:none;padding:8px
+0px 10px 0px !important;margin:0px
+0px 0px 0px !important}.mp-welcome-info{float:left;width:240px}.mp-welcome-image{float:left;margin:0px
+10px 0px 0px;text-align:center}.mp-welcome-image
+a{font-size:10px;text-decoration:none}.mp-welcome-image
+img{background-color:#FFF;border:1px
+solid #DCDCDC;padding:3px}.mp-welcome-points{float:left;width:65%}.points-and-level{margin:0px
+0px 3px}.needed-points{color:#666;font-size:10px;line-height:12px;padding:5px
+0px 0px}.total-points{background-color:#C00;color:#FFF;float:left;font-size:12px;font-weight:bold;margin:0px
+5px 0px 0px;padding:1px
+5px;text-align:center}.honorific-level{float:left}.mp-requests{font-size:12px}.random-featured-user{font-size:11px;color:#333;line-height:14px;margin:10px
+0px 0px 0px}.random-featured-user
+img{float:left;border:1px
+solid #dcdcdc;padding:3px;background-color:#fff;display:block;text-align:justify;margin:0px
+10px 0px 0px}.random-featured-user-title{margin:0px
+0px 6px 0px}.random-featured-user-title
+a{text-decoration:none;font-size:14px;font-weight:bold}.random-featured-user-about-title{font-weight:bold}.bottom-left-nav{margin:15px
+0px 0px 0px}.game-unit-container,.bottom-left-nav-container{padding:0px
+0px 15px 0px;margin:0px;border-bottom:none;overflow:hidden}.game-unit-container h2, .bottom-left-nav-container
+h2{margin:0px
+0px 5px 0px !important;font-size:16px;letter-spacing:-1px;color:#333;border-bottom:none;font-weight:bold}.game-unit-container a, .bottom-left-nav-container
+a{color:#0099D9;text-decoration:none}.game-unit-container a:visited, .bottom-left-nav-container a:visited{color:#0099D9;text-decoration:none}.game-unit-container a:hover, .bottom-left-nav-container a:hover{color:#01405B;text-decoration:none}.bottom-left-nav-container .listpages-container
+a{font-size:12px;line-height:14px;text-decoration:none}.bottom-left-listpage-fix
+h2{margin-bottom:-5px !important}#profile-toggle-button{top:5px !important}#blog-page-left{top:30px !important;right:10px !important}.comment_blocked_user{margin:10px
+0px 0px 0px}#userloginForm{margin:15px
+0px 0px 0px}.email-new-article-message{padding:15px
+0px 0px 0px}#siteNotice{border:none}textarea#pageBody{width:80%}.footer-recent-contributors-title{color:#333;font-size:10pt;font-weight:bold;padding:0px
+0px 8px 0px !important}.footer-recent-contributors
+img{border:1px
+solid #dcdcdc;padding:2px;background-color:#fff}.recent-contributors-message{font-size:11px;padding:0px
+0px 8px 0px !important}.poll-embed-title{font-size:14px;font-weight:bold}.poll-choice{font-size:14px;font-weight:bold;margin:0px
+0px 6px 0px;color:#666}.poll-choice-left{margin:10px
+0px 3px 0px}.poll-choice-votes{font-size:12px;color:#000;font-weight:bold}.image-choice-1{border-bottom:2px solid #000;border-right:2px solid #000;border-top:2px solid #82C3FF;vertical-align:middle}.image-choice-2{border-bottom:2px solid #000;border-right:2px solid #000;border-top:2px solid #F0B4AB;vertical-align:middle}.image-choice-3{border-bottom:2px solid #000;border-right:2px solid #000;border-top:2px solid #86ff80;vertical-align:middle}.image-choice-4{border-bottom:2px solid #000;border-right:2px solid #000;border-top:2px solid #f8ff80;vertical-align:middle}.image-choice-5{border-bottom:2px solid #000;border-right:2px solid #000;border-top:2px solid #dd80ff;vertical-align:middle}
+/*tabview.css*/
+.yui-navset .yui-nav
+li{margin-right:0.5em}.yui-navset-left .yui-nav li, .yui-navset-right .yui-nav
+li{margin:0
+0 0.5em}.yui-navset-left .yui-nav, .yui-navset-right .yui-nav{width:6em}.yui-navset-left{padding-left:6em}.yui-navset-right{padding-right:6em}.yui-nav, .yui-nav
+li{margin:0;padding:0;list-style:none}.yui-navset li
+em{font-style:normal}.yui-navset{position:relative;zoom:1}.yui-navset .yui-content{zoom:1}.yui-navset .yui-nav
+li{display:inline-block;display:-moz-inline-stack;*display:inline;vertical-align:bottom;cursor:pointer;zoom:1}.yui-navset-left .yui-nav li, .yui-navset-right .yui-nav
+li{display:block}.yui-navset .yui-nav
+a{outline:0}.yui-navset .yui-nav
+a{position:relative}.yui-navset .yui-nav li
+a{display:block;display:inline-block;vertical-align:bottom;zoom:1}.yui-navset-left .yui-nav li a, .yui-navset-right .yui-nav li
+a{display:block}.yui-navset-bottom .yui-nav li
+a{vertical-align:text-top}.yui-navset .yui-nav li a
+em{display:block}.yui-navset-left .yui-nav, .yui-navset-right .yui-nav{position:absolute;z-index:1}.yui-navset-left .yui-nav{left:0}.yui-navset-right .yui-nav{right:0}
+/*Blogs.css*/
+#blogPostForm,#blogInfo{color:#000;display:block;padding-right:1em;font-size:12pt}#blogPostForm
+div.formErrors{color:red;font-weight:700}#blogPostForm
+div.formBlock{clear:left;float:left;width:100%;padding:15px
+0}#blogPostForm
+div.formLastBlock{width:100%;clear:left;float:left;margin-top:10px;margin-bottom:10px;padding-bottom:20px}#blogPostForm
+#blogPostTitleHeader{float:left}#blogPostForm
+#blogPostTitle{clear:left;float:left;display:block}#blogPostForm
+#blogPostCheckboxes{float:left}#blogPostROTitle{clear:left;float:left;display:block;font-weight:700;margin-right:15px;padding:5px}#CreateWikiForm
+div.row{display:block!important;clear:both;padding:.8em}.categoryCloudSection{border:1px
+solid lightgray;padding:15px}.wpCategoryTextarea{display:none}#wpCategoryInput,#wpCategoryButton{margin:4px
+2px 0}wpCategoryInput{width:230px}.matches-info{color:#060;font-style:italic;font-weight:700;margin-right:1em}div.wk_blogs_panel{border:1px
+solid #CCC;font-family:Arial,sans-serif;font-size:10pt;width:294px;margin:0
+5px;padding:2px}div.wk_blogs_panel
+ul.list{margin-top:5px}div.wk_blogs_panel ul.list
+li{margin-bottom:2px;padding:1px
+3px}div.wk_blogs_panel
+.wk_blogs_title{font-weight:700;padding:3px
+5px}div.wk_blogs_title_refresh{float:right;margin:-15px 0 0}div.wk_blogs_panel
+.wk_blogs_link{font-weight:700;padding:1px
+0}div.wk_blogs_panel
+.wk_blogs_details{font-size:8pt}div.wk_blogs_panel .wk_blogs_details
+span{margin-right:5px}div.wk_blogs_panel
+.wk_blogs_summary{font-size:9pt;margin-top:3px}div.wk_blogs_panel
+.wk_blogs_comments{font-size:8.5pt;margin-top:3px;text-align:right;margin-bottom:5px;clear:both}h2.wikia_header{background:#F9F9F9;border-bottom:1px solid #AAA;border-top:1px solid #AAA;clear:both;color:#36C;font-family:Arial,sans-serif;font-size:12pt;font-weight:700;text-transform:uppercase;margin:0!important;padding:3px
+10px}#blog-comments-ul{margin:0;padding:0;list-style:none;list-style-image:none}#blog-comments-li{border-bottom:1px solid #DDD;padding:15px
+10px}img.avatar{background:#FFF;border:1px
+solid #666;padding:2px}#blog-comments
+.details{margin:4px
+0 7px}#blog-comments
+span.timestamp{font-style:italic}div.blog-comm-input-text
+textarea{height:100px;margin-bottom:5px;width:450px;padding:3px}div.wk_blogs_post{width:100%}div.wk_blogs_post
+.wk_blogs_link{font-weight:700;font-size:110%;padding:1px
+0}div.wk_blogs_post
+ul.list{list-style:none;margin:.5em 0}div.wk_blogs_post ul.list
+li.list{border-bottom:1px solid #DFDFDF;margin:0
+0 10px;padding:5px
+0 3px}div.wk_blogs_post
+.wk_date{display:inline;clear:both;font-size:90%;margin:0
+.1em;padding:0
+5px 2px 0}div.wk_blogs_post .wk_date
+span.left{clear:left}div.wk_blogs_post .wk_date
+span.right{clear:right;padding-left:7px;padding-right:2px}div.wk_blogs_post
+.wk_blogs_summary{width:auto;font-weight:400;margin:0
+.1em;padding:3px
+3px 2px}div.wk_blogs_post .wk_blogs_summary
+p{margin:.3em 0 .6em}div.wk_blogs_post
+.wk_blogs_comments{width:auto;font-weight:400;text-align:left;padding:0
+5px 5px 0}div.wk_blogs_post .wk_blogs_comments
+ul.links{list-style:none;height:20px;margin:.3em 0 .5em;position:relative}div.wk_blogs_post .wk_blogs_comments ul.links
+li{border:0;clear:right;color:#DFDFDF;display:inline;padding:3px
+.2em 0}.blog-comment{position:relative}.wk_blogs_panel .blog-comment .blog-comment-icon{left: -738px;top:0}div.wk_blogs_post
+.wk_blogs_pager{float:right;white-space:nowrap}.wk_star_list ul.star-rating{float:none;display:inline;position:absolute}li.wk_star_list{padding:0
+100px 0 0!important}#control_listing-refresh-tab
+div{clip:rect(0px,336px,16px,320px);left:-320px}div.blog-comment_input{background:#e0e0e0}#blog-footer
+ul{list-style:none;margin:1.5em 0 .5em}#blog-footer ul
+li{float:left;margin-right:10px}#blog-footer #star-rating{top:-20px}#blog-comm-form-select
+select{float:right;margin:0}.rtl #blog-comm-form-select
+select{float:left}div.blog-comm-input{background:#d2d2b6;padding:10px}div.blog-comment{margin:2px
+2px 0;padding:4px}div.blog-comment
+p{margin-bottom:1em}div.blog-comment .blog-comment-hidden{font-style:italic;border:1px
+dotted #AAA;text-align:left;padding:1em}div.blog-comment
+strong{font-weight:700;font-size:10pt}div.wk_blogs_panel .wk_blogs_date,#blog-comments .comment
+strong{font-weight:700}#blog-comments .comment_avatar,div.blog-comm-input-avatar{float:left}#blog-comments .comment,div.blog-comm-input-text{margin-left:65px}
+/*Masthead.css*/
+body.masthead-regular #page_bar,
+body.masthead-special
+#page_bar{background:#F5F5F5;border-top:1px #AAA solid;border-bottom:1px #AAA solid;color:black;margin:0}body.masthead-regular #page_controls li,
+body.masthead-special #page_controls
+li{line-height:24px}body.masthead-regular #page_controls a,
+body.masthead-special #page_controls
+a{color:black;font-size:9pt;margin-top:4px}body.masthead-special
+#page_bar{height:5px}#user_masthead{font-size:10pt;height:60px;padding:4px
+4px 0;position:relative}#user_masthead
+h2{font-size:14pt;font-weight:bold;line-height:40px}.rtl #user_masthead
+h2{text-align:left}#user_masthead h2
+small{font-size:9pt;font-weight:normal;margin-left: .3em}#user_masthead
+ul.nav_links{bottom:0;left:70px;position:absolute}#user_masthead ul.nav_links
+li{float:left;font-size:9pt;font-weight:bold;margin-right:2px;padding:7px
+20px 3px;-moz-border-radius-topleft:7px;-moz-border-radius-topright:7px;-webkit-border-top-left-radius:7px;-webkit-border-top-right-radius:7px}#user_masthead ul.nav_links
+li.selected{background:#F5F5F5;border:1px
+#AAA solid;border-bottom:none;color:#000;margin-top: -1px;padding:6px
+20px 4px;position:relative;top:1px}#user_masthead ul.nav_links li.selected
+a{background:transparent;color:#000}#user_masthead ul.nav_links li
+a.new{color:inherit}#user_masthead_head{height:2.5em}#user_masthead_scorecard{font-size:60px;letter-spacing: -1px;line-height:100%;position:absolute;right:6px;top:4px}#user_masthead_scorecard #masthead-achievements{font-size:40px;position:relative;text-align:right}#user_masthead_scorecard #masthead-achievements
+small{display:block;font-size:20px;letter-spacing:0;line-height:100%;position:relative;top: -5px}avatarOverlayRight{right:5px;top:5px}.avatarOverlay{position:absolute;left:4px;top:4px;margin:6px
+-11px;padding:3px;z-index:100;background:transparent}.avatarOverlay
+span{cursor:pointer;margin:0
+3px}#user_masthead .avatar,
+div.blog-comment
+.avatar{background:#FFF;border:1px
+solid #AAA;float:left;height:50px;margin-right:10px;width:50px;padding:2px}#wk-avatar-arrow{background:#aaa url(http://images.wikia.com/common/extensions/wikia/Masthead/images/arrow.png) no-repeat 50% 50%;position:absolute;left:56px;height:56px;width:9px;z-index:200}#wk-avatar-menu{background:white;border:1px
+#aaa solid;padding:3px;position:absolute;top:55px;color:black;left:0}#wk-avatar-menu
+ul{padding-right:40px}.rtl #wk-avatar-menu
+ul{padding:0
+0 0 40px}#wk-avatar-menu
+li{white-space:nowrap;padding:1px}#wk-avatar-username{font-weight:bold;border-bottom:1px #aaa solid;margin-bottom:2px;padding-bottom:2px}#wk-avatar-border-blocker{background:#FFF;font-size:1px;height:1px;left:1px;position:absolute;top:55px;width:54px;z-index:200}
+/*ShareFeature.css*/
+#shareFeatureInside{padding:10px
+!important}#shareFeatureInside
+ul{margin-left:6px}#shareFeatureInside
+li{padding:4px
+4px 4px 0px}#shareFeatureInside
+img{padding:0
+6px}#sf_providers
+div{background-image:url(http://images.wikia.com/common/extensions/wikia/ShareFeature/images/share_sprite.png);clip:rect(0px, 0px, 0px, 0px);height:16px;margin:8px
+2px 0 0;position:absolute;width:128px;top: -3px}#sf_providers
+li{margin-right:12px;padding-left:24px;position:relative}#sf_provider_myspace
+div{clip:rect(0px 128px 16px 112px );left: -112px}#sf_provider_slashdot
+div{clip:rect(0px 32px 16px 16px );left: -16px}#sf_provider_technorati
+div{clip:rect(0px 112px 16px 96px );left: -96px}#sf_provider_stumbleupon
+div{clip:rect(0px 96px 16px 80px );left: -80px}#sf_provider_digg
+div{clip:rect(0px 48px 16px 32px );left: -32px}#sf_provider_twitter
+div{clip:rect(0px 16px 16px 0px );left:0px}#sf_provider_facebook
+div{clip:rect(0px 80px 16px 64px );left: -64px}#sf_provider_reddit
+div{clip:rect(0px 64px 16px 48px );left: -48px}
+/*CreatePage.css*/
+#CreatePageContainer{padding:8px}#CreatePageDialogHeader{margin-bottom:20px;margin-top:8px}#CreatePageDialogSub{font-weight:bold;margin-bottom:8px}#CreatePageDialogChoose{font-weight:bold;margin-top:10px;margin-bottom:8px}#CreatePageDialogChoices{margin-bottom:8px}#wpCreatePageDialogTitle{width:380px}#CreatePageContainer
+.chooser{float:left;width:48%;text-align:center;margin-bottom:12px}#CreatePageContainer div
+img{margin-top:8px}#CreatePageDialogWrapper{margin-top: -62px}.chooser
+div{width:80%;padding:1em
+1em 1em 1em}.chosen{background-color:#d6e0f5;-moz-border-radius:10px;-webkit-border-radius:10px}#CreatePageDialogButton{clear:both}#CreatePageDialogTitleErrorMsg{margin-top:8px}.CreatePageError{font-weight:bold;color:red}
+/*WikiaPhotoGallery.view.css*/
+.wikia-gallery{padding:1px}.wikia-gallery-add{background:#DDD;border:1px
+solid #BBB;line-height:16px;float:left;left:5px;padding:0
+5px;position:relative;top:9px;-moz-border-radius:3px;-webkit-border-radius:3px}.wikia-gallery-add
+a{color:#000;display:inline-block;font-size:0.85em;text-decoration:none}
+/*WidgetAdvertiser.css*/
+.WidgetAdvertiser
+dt{font-size:8pt;padding:1px
+3px}.WidgetAdvertiser
+dd{padding:0;overflow:hidden}.WidgetAdvertiser h1,
+.WidgetAdvertiser
+.widgetToolbox{display:none}.widgetAdvertiserAd{float:left}.widgetAdvertiserAd
+table{background-color:transparent}.widgetAdvertiserAd_tr_user{width:125px;height:125px;overflow:hidden;margin:0
+10px}.widgetAdvertiserAd_spot_user{border-left:dashed 1px #87888C;height:125px;overflow:hidden;padding-left:10px;margin:0;width:125px}.widgetAdvertiserAd_tr_user{margin-top:10px}.widgetAdvertiserAd_spot1_anon{border-right:dashed 1px #999;height:125px;overflow:hidden;padding:5px
+10px 5px 9px;width:125px}.widgetAdvertiserAd_spot2_anon{height:125px;overflow:hidden;padding:5px
+0 5px 10px;width:125px}
+/*WidgetAnswers.css*/
+.WidgetAnswers
+dt.widget_title{background:#252525 url(http://images.wikia.com/extensions/wikia/WidgetFramework/Widgets/WidgetAnswers/wikianswers.png) 0px -1px no-repeat;color:#252525;font-size:0.01em;height:15px}.WidgetAnswers
+dd.widget_contents{padding:0}.ask_form{background:#CCC;padding:5px
+3px !important}.widget_answers_note{background:#CCC;color:#000;font-size:9pt;padding:3px
+!important}.widget_answers_note
+a{color:#002BB8 !important}.answers_ask_field{background:#FFF url(http://images.wikia.com/extensions/wikia/WidgetFramework/Widgets/WidgetAnswers/field_bg.png) repeat-x;border:1px
+solid #093;color:#999;margin:0
+!important;padding:2px
+!important;width:95% !important}
+/*WidgetBookmark.css*/
+div.WidgetBookmark,
+.WidgetBookmark
+dd{overflow:visible !important;max-height:none}.WidgetBookmark
+.WidgetBookmarkMenu{text-align:right;text-transform:lowercase;position:relative}.WidgetBookmark .WidgetBookmarkMenu
+a.addBookmark{cursor:pointer;background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_bookmark_add.png);display:block;width:16px;height:16px;position:absolute;top: -25px;right:20px}div.WidgetBookmark .WidgetBookmarkMenu
+a.addBookmark{top: -33px}body.rtl .WidgetBookmark .WidgetBookmarkMenu
+a.addBookmark{left: -3px;right:auto}body.rtl div.WidgetBookmark .WidgetBookmarkMenu
+a.addBookmark{left:20px}.WidgetBookmark
+.WidgetBookmarkRemove{margin-left:10px;cursor:pointer;font-weight:bold;opacity:0.6}
+/*WidgetCategoryCloud.css*/
+.WidgetCategoryCloud ul, .WidgetCategoryCloud
+li{display:inline;list-style:none}.WidgetCategoryCloud li
+a.cloud0{font-size:80%;font-weight:400}.WidgetCategoryCloud li
+a.cloud1{font-size:85%;font-weight:400}.WidgetCategoryCloud li
+a.cloud2{font-size:90%;font-weight:400}.WidgetCategoryCloud li
+a.cloud3{font-size:100%;font-weight:400}.WidgetCategoryCloud li
+a.cloud4{font-size:110%;font-weight:400}.WidgetCategoryCloud li
+a.cloud5{font-size:120%;font-weight:500}.WidgetCategoryCloud li
+a.cloud6{font-size:130%;font-weight:600}.WidgetCategoryCloud li
+a.cloud7{font-size:150%;font-weight:700}.WidgetCategoryCloud li
+a.cloud8{font-size:170%;font-weight:800}.WidgetCategoryCloud li
+a.cloud9{font-size:200%;font-weight:900}.WidgetCategoryCloud
+.widget_title{display:block}.WidgetCategoryCloud{border:1px
+solid #000}.WidgetCategoryCloud
+dt{border-bottom:2px dotted #A9C5EB;font-size:110%;padding-left:0px}.WidgetCategoryCloud
+dd{max-height:none}
+/*WidgetCommunity.css*/
+.WidgetCommunity
+dd{max-height:none;padding:0}.activityfeed
+img.sprite{margin-left: -20px}.WidgetCommunity
+.community_header{border-bottom-style:solid;border-bottom-width:1px;padding:2px
+4px}.WidgetCommunity
+.article_count{font-size:15pt;font-weight:bold}.WidgetCommunity
+.toolbar{height:1%;text-align:right;overflow:hidden}.WidgetCommunity
+.widgetfeed{margin-top:4px;margin-left:25px}.WidgetCommunity .widgetfeed
+li{height:1%;margin-bottom:4px;position:relative}.WidgetCommunity li
+strong{font-weight:bold;font-size:10pt;position:relative}
+/*WidgetFounderBadge.css*/
+.WidgetFounderBadge
+.userInfoBadgeAvatarWrapper{float:left}.WidgetFounderBadge
+.userInfo{float:right}.WidgetFounderBadge
+.userPageLink{text-align:left}.WidgetFounderBadge
+.widget_title{display:block}.WidgetFounderBadge{background:#FFF;border:1px
+solid #000}.WidgetFounderBadge
+dt{border-bottom:2px dotted #A9C5EB;font-size:110%;padding-left:0px}.WidgetFounderBadge
+dd{font-size:9pt;padding:7px;margin:0;max-height:250px;overflow-y:auto;overflow-x:hidden}
+/*WidgetLanguages.css*/
+.WidgetLanguages
+dt{font-size:8pt;padding:1px
+3px}
+/*WidgetMagCloud.css*/
+.WidgetMagCloud
+.WidgetMagCloudSample{background:#fff url(http://images.wikia.com/common/extensions/wikia/WidgetFramework/Widgets/WidgetMagCloud/images/MagCloudPreview.png) no-repeat 50% 50%;border:solid 1px #eee;height:120px;margin:5px
+0}.WidgetMagCloud
+.WidgetMagCloudClickable{cursor:pointer}.WidgetMagCloud
+p{padding:5px
+0;text-align:center}.WidgetMagCloud
+.WidgetMagCloudPoweredBy{background:#c73024 url(http://images.wikia.com/common/extensions/wikia/WidgetFramework/Widgets/WidgetMagCloud/images/MagCloudPoweredBy.png) no-repeat 96% 50%;color:#fff;font-size:0.9em;margin:5px
+-7px -7px -7px;padding:4px
+104px 4px 7px;text-align:right}
+/*WidgetMagCloudM.css*/
+.WidgetMagCloudM
+.WidgetMagCloudSample{background:#fff url(http://images.wikia.com/common/extensions/wikia/WidgetFramework/Widgets/WidgetMagCloudM/images/MagCloudPreview2.png) no-repeat 50% 50%;border:solid 1px #eee;height:154px;margin:5px
+0}.WidgetMagCloudM
+.WidgetMagCloudClickable{cursor:pointer}.WidgetMagCloudM
+p{padding:5px
+0;text-align:center}.WidgetMagCloudM
+.WidgetMagCloudPoweredBy{background:#c73024 url(http://images.wikia.com/common/extensions/wikia/WidgetFramework/Widgets/WidgetMagCloudM/images/MagCloudPoweredBy.png) no-repeat 96% 50%;color:#fff;font-size:0.9em;margin:5px
+-7px -7px -7px;padding:4px
+104px 4px 7px;text-align:right}
+/*WidgetRecentChanges.css*/
+.WidgetRecentChanges
+.WidgetRecentChangesDiffLink{margin-left:10px}
+/*WidgetReferrers.css*/
+.WidgetReferers
+dd{overflow:hidden}.widgetReferrersDomainTag{line-height:1.3em;margin:2px
+5px}
+/*WidgetShoutBox.css*/
+.WidgetShoutBox
+h5{font-weight:bold !important;margin:3px
+0 !important}.WidgetShoutBoxChat form
+input{border:solid 1px #666;font-size:0.9em;margin:6px
+0 2px 0}.WidgetShoutBoxChat form input[type="text"]{width:95%;padding:2px}.WidgetShoutBoxChat form input[type="submit"]{width:75px;padding:1px;cursor:pointer;margin-top:3px}body.ltr .widgetShoutBox ul
+li{padding-left:60px;text-indent: -60px}.WidgetShoutBoxChat ul li
+p{display:inline}.WidgetShoutBoxChat ul li .shoutBoxMsg
+a{text-decoration:underline}body.rtl .WidgetShoutBox
+ul{direction:ltr;text-align:right}.WidgetShoutBox
+dd{max-height:none}
+/*WidgetSidebar.css*/
+.WidgetSidebar .listLeft,
+.WidgetSidebar
+.listRight{width:50%;float:left}* html .WidgetSidebar
+.listLeft{padding-left:1%;width:49%}
+/*WidgetSlideshow.css*/
+.WidgetSlideshowImages{position:relative;overflow:hidden;height:120px;margin:3px;list-style:none}.WidgetSlideshowImages
+li{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#000;border:solid 1px #666;background-position:50% 50%;background-repeat:no-repeat}.WidgetSlideshowImages li
+a{width:100%;height:100%;display:block}.WidgetSlideshowControls{float:right;padding:5px
+0 !important;z-index:100;opacity:0.7}.WidgetSlideshowControls
+a{width:16px;height:16px;margin:0
+3px;display:block;cursor:pointer;float:left;text-decoration:none !important;text-indent: -99px;overflow:hidden}.WidgetSlideshowControlPrev{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_slideshow_prev.png)}.WidgetSlideshowControlNext{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_slideshow_next.png)}.WidgetSlideshowControlPause{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_slideshow_pause.png)}.WidgetSlideshowControlPlay{background-image:url(http://images.wikia.com/common/skins/common/widgets/icons/widget_slideshow_play.png)}.WidgetSlideshowControls
+.blocked{display:none}
+/*WidgetTips.css*/
+.WidgetTips
+.WidgetTipsSelector{margin-bottom:12px;font-size:0.9em;text-align:right;text-transform:lowercase}.WidgetTips .WidgetTipsSelector
+a{cursor:pointer}
+/*WidgetTopContent.css*/
+.WidgetTopContent
+select{float:left;width:130px;margin-top:2px;font-size:0.9em !important}* html .WidgetTopContent dt,
+* html .WidgetTopContent
+dd{height:1%}
+/*WidgetWikiPage.css*/
+.WidgetWikiPage
+.editsection{display:none}.WidgetWikiPage .widget_contents
+dt{color:inherit;background:none;cursor:default}
+/*WidgetWikiaToolbox.css*/
+.WidgetWikiaToolbox .listLeft,
+.WidgetWikiaToolbox
+.listRight{width:48%;float:left}.WidgetWikiaToolbox
+.listHdr{color:#FEC423;font-size:11pt;font-weight:normal;margin:2px
+0px 3px 0px}div.gelButton.addButton{background-position:100% -40px;margin-top:5px}div.gelButton.addButton
+a{background-position:0pt -40px;margin-left:0pt;margin-right:8px;padding-left:22px}* html .WidgetWikiaToolbox
+.addButton{position:relative !important;margin-top:20px}* html .WidgetWikiaToolbox .listLeft,
+* html .WidgetWikiaToolbox
+.listRight{position:relative;padding-bottom:0px !important}

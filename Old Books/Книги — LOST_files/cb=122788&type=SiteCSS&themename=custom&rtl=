@@ -1,0 +1,44 @@
+/* Call to: /index.php?title=MediaWiki:Common.css&usemsgcache=yes&ctype=text/css&smaxage=86400&cb=122788&action=raw&maxage=86400 */
+
+/** Размещённый здесь CSS будет применяться ко всем темам оформления */
+.collapseButton {         /* 'show'/'hide' buttons created dynamically by the        */
+    float: right;         /* CollapsibleTables javascript in [[MediaWiki:Common.js]] */
+    font-weight: normal;  /* are styled here so they can be customised.              */
+    text-align: right;
+    width: auto;
+}/* Call to: /index.php?title=MediaWiki:Monaco.css&usemsgcache=yes&ctype=text/css&smaxage=86400&cb=122788&action=raw&maxage=86400 */
+
+#wikia_header {
+   background: #0066cc url(http://images2.wikia.nocookie.net/lostpedia/ru/images/2/26/Hawaii-statue-top62.jpg) no-repeat;
+   border: 0;
+   height: 62px;
+}
+ 
+#background_strip {
+   background: #71A3C1 url(http://images2.wikia.nocookie.net/lostpedia/ru/images/0/02/Hawaii-bottom158.jpg) no-repeat;
+   border: 0;
+   height: 158px;
+}
+ 
+#wiki_logo {
+	top: -10px !important;
+}
+ 
+#wikia_page {
+	top: -125px !important;
+        background-color: #ffffff;
+        color: #000000;
+        padding: 2px;
+       -moz-border-radius-topright: 0.4em;
+       -moz-border-radius-bottomright: 0.4em;
+       -moz-border-radius-topleft: 0.4em;
+       -moz-border-radius-bottomleft: 0.4em;
+}
+
+#monaco_footer
+{
+       top: -65px !important;
+}/* Call to: /index.php?title=-&action=raw&maxage=86400&gen=css&useskin=monaco */
+
+/* generated user stylesheet */
+a.new, #quickbar a.new { color: #CC2200; }
