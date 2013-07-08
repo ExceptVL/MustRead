@@ -18,3 +18,4 @@ Kevin Poulsen. Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime U
 Томас Кормен, Чарльз Лейзерстон, Рональд Ривест, Клиффорд Штайн. Алгоритмы: построение и анализ
 В.Э. Вольфенгаген. Конструкции языков программирования
 Harold Abelson, Gerald Jay Sussman. Structure and Interpretation of Computer Programs
+Scott Chacon. ProGit
