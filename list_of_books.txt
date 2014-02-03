@@ -38,3 +38,4 @@ Scott Chacon. ProGit
 Кто заплачет, когда ты умрешь
 Атлант расправил плечи
 Маркес
+Joe Kutner. The Healthy Programmer
