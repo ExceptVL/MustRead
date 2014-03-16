@@ -39,3 +39,5 @@ Scott Chacon. ProGit
 Атлант расправил плечи
 Маркес
 Joe Kutner. The Healthy Programmer
+Сенкевич. Потоп
+О'генри
