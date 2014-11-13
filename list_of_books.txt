@@ -40,4 +40,5 @@ Scott Chacon. ProGit
 Маркес
 Joe Kutner. The Healthy Programmer
 Сенкевич. Потоп
+Робин Шарма. Монах, который продал свой феррари
 О'генри
